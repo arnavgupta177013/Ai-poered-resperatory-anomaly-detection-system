@@ -1,1 +1,1 @@
-# Ai-poered-resperatory-anomaly-detection-system
+# Ai-powered-resperatory-anomaly-detection-system

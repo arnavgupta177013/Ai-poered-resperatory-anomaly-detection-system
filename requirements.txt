@@ -1,0 +1,8 @@
+numpy>=1.19.2
+librosa>=0.8.0
+torch>=1.7.0
+scikit-learn>=0.23.2
+matplotlib>=3.3.2
+sounddevice>=0.4.1
+soundfile>=0.10.3.post1
+tkinter 
